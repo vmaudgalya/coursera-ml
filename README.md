@@ -5,4 +5,5 @@ To the best of my ability, I plan to follow conventions from [here](https://www.
 
 #### To Run
 `/Applications/MATLAB_R2016b.app/bin/matlab -nodesktop -r matrix_practice.m`
+
 `run matrix_practice.m`
